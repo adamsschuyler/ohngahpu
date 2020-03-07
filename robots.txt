@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://emeiphegha.econphd.eu/sitemap.xml
